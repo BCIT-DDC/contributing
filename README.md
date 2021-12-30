@@ -6,9 +6,9 @@ Use the table of contents icon <img src="./assets/images/table-of-contents.png" 
 
 ## Contributing
 
-See [the contributing guide](CONTRIBUTING.md) for detailed instructions on how to get started with any of our projects.
+See [the contributing guide](./contributing.md) for detailed instructions on how to get started with any of our projects.
 
-If you're looking for a way to contribute, you can scan through our any of our repositories for existing issues. When you're ready, check out [Getting Started with Contributing](/CONTRIBUTING.md) for detailed instructions.
+If you're looking for a way to contribute, you can scan through our any of our repositories for existing issues. When you're ready, check out [Getting Started with Contributing](./contributing.md) for detailed instructions.
 
 ### And that's it!
 
@@ -16,7 +16,7 @@ That's how you can easily become a member of the BCIT-DDC community. :sparkles:
 
 ## License
 
-[MIT](LICENSE.md) © BCIT-DDC
+[MIT](./LICENSE.md) © BCIT-DDC
 
 ## Thanks :purple_heart:
 
